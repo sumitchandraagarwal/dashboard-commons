@@ -1,5 +1,6 @@
 site_name: Europe 2026
 site_description: Family trip control center for Paris, the Atlantic coast, Strasbourg and Bern.
+site_url: https://sumitchandraagarwal.github.io/dashboard-commons/
 docs_dir: docs
 site_dir: site
 use_directory_urls: true
