@@ -1,0 +1,41 @@
+site_name: Europe 2026
+site_description: Family trip control center for Paris, the Atlantic coast, Strasbourg and Bern.
+docs_dir: docs
+site_dir: site
+use_directory_urls: true
+strict: true
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.sections
+    - navigation.top
+    - content.tooltips
+  font:
+    text: Inter
+    code: IBM Plex Mono
+  palette:
+    scheme: default
+    primary: custom
+    accent: custom
+
+nav:
+  - Trip control center: index.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: false
+      toc_depth: 3
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  generator: false
+
+copyright: Europe 2026 · Family trip control center
