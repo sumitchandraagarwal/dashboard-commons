@@ -10,11 +10,11 @@ hide:
 
 # The trip is booked. Now protect the edges.
 
-Seventeen days across Paris, the Atlantic coast, Strasbourg and Bern—built around friends, unhurried city life, easy beauty and one ambitious mountain day.
+Seventeen days across Paris, the Atlantic coast, Strasbourg and Switzerland—built around friends, unhurried city life, easy beauty and one deliberately simple mountain night.
 
 <div class="hero-facts">
   <span><b>Jul 31–Aug 17</b><small>17 days</small></span>
-  <span><b>4 bases</b><small>all lodging booked</small></span>
+  <span><b>4 bases + 1 interlude</b><small>all lodging booked</small></span>
   <span><b>Open-jaw flights</b><small>family itinerary set</small></span>
 </div>
 
@@ -32,9 +32,9 @@ Seventeen days across Paris, the Atlantic coast, Strasbourg and Bern—built aro
 <div class="state-card" markdown="1">
 <p class="eyebrow">CURRENT STATE · UPDATED JUL 25</p>
 
-## Paris 3 · coast 4 · Strasbourg 3 · Bern 6
+## Paris 3 · coast 4 · Strasbourg 3 · Bern 6—with one mountain night
 
-The route, all four hotels and the family Delta itinerary are settled. Balzac’s cot is confirmed; the urgent work is narrower still: convert the SNCF holds and finish the remaining hotel requests.
+The route, all four hotels, the family Delta itinerary and the overlapping Lauterbrunnen night are settled. Balzac’s cot is confirmed; the urgent work is narrower still: convert the SNCF holds and obtain written infant-safe room or cot clearance for the mountain interlude.
 
 <div class="priority-line"><span>Do first</span><b>Pay the Aug 4 Paris–La Baule TGV hold before Jul 26 at 1:15 PM ET.</b></div>
 </div>
@@ -73,7 +73,7 @@ Paris absorbs jet lag. The coast creates the friend-centered exhale. Strasbourg 
     <h3>Bern</h3>
     <b>Swissôtel Kursaal Bern</b>
     <mark>Booked</mark>
-    <p>Reliable, well-run final base with a balcony room, restaurants on site and Tram 9 at the door for the station and old town.</p>
+    <p>Reliable, well-run final base with a balcony room, restaurants on site and Tram 9 at the door. The room remains ours during the one-night Lauterbrunnen interlude.</p>
     <small>Strasbourg → Basel → Bern · 2h35 planned</small>
   </article>
 </div>
@@ -105,9 +105,10 @@ Deadlines and trip integrity drive this order. Optional excursions stay delibera
 <ol class="action-list">
   <li><span>01</span><div><small>By Jul 26 · 1:15 PM ET</small><h3>Pay the first expiring SNCF hold</h3><p>The Aug 4 Paris–La Baule TGV expires first. The two Aug 8 holds last until Jul 31, but buying the three-ticket rail spine together is the cleanest execution.</p></div><b>Hard deadline</b></li>
   <li><span>02</span><div><small>Next 48 hours</small><h3>Send the remaining hotel requests</h3><p>Confirm crib and AC at Saint Christophe; large bed, crib, quiet character room and AC at Cour du Corbeau; crib, garden-side quiet and pre-cooling at Swissôtel.</p></div><b>Protect the stays</b></li>
-  <li><span>03</span><div><small>After French rail</small><h3>Book the Swiss rail skeleton</h3><p>Buy Strasbourg–Bern for Aug 11, then choose a direct Bern–Zurich Airport train arriving about three hours before DL53 on Aug 17.</p></div><b>Low complexity</b></li>
-  <li><span>04</span><div><small>At each hotel · before first use</small><h3>Test the monitor evening plan</h3><p>Confirm the hotel permits the setup, test the monitor from the actual on-site bar or restaurant, keep alerts and a cellular fallback live, and make sure the room can be reached immediately. A venue a few doors away is only a fallback if those same checks genuinely hold.</p></div><b>Evening flexibility</b></li>
-  <li><span>05</span><div><small>Before the last week</small><h3>Close the risk and ground layers</h3><p>Audit travel medical and evacuation coverage, reserve the two fragile Aug 8 car transfers, rehearse the hands-and-backs luggage plan, and save every ticket offline.</p></div><b>Final readiness</b></li>
+  <li><span>03</span><div><small>By Jul 30 · Swiss time</small><h3>Clear the Lauterbrunnen room for Krishna</h3><p>Camping Jungfrau currently confirms the room for two adults. Obtain written confirmation of the infant and a safe cot or a suitable one-night upgrade; Jul 30 is the cost-free cancellation boundary.</p></div><b>Infant-safe gate</b></li>
+  <li><span>04</span><div><small>After French rail</small><h3>Book the Swiss rail skeleton</h3><p>Buy Strasbourg–Bern for Aug 11, then choose a direct Bern–Zurich Airport train arriving about three hours before DL53 on Aug 17. Keep the local excursion tickets flexible.</p></div><b>Low complexity</b></li>
+  <li><span>05</span><div><small>At each hotel · before first use</small><h3>Test the monitor evening plan</h3><p>Confirm the hotel permits the setup, test the monitor from the actual on-site bar or restaurant, keep alerts and a cellular fallback live, and make sure the room can be reached immediately. A venue a few doors away is only a fallback if those same checks genuinely hold.</p></div><b>Evening flexibility</b></li>
+  <li><span>06</span><div><small>Before the last week</small><h3>Close the risk and ground layers</h3><p>Audit travel medical and evacuation coverage, reserve the two fragile Aug 8 car transfers, rehearse the hands-and-backs luggage plan, and save every ticket offline.</p></div><b>Final readiness</b></li>
 </ol>
 
 ## The spine is simple; one day needs choreography {#transport}
@@ -152,7 +153,7 @@ Direct daily guidance now reaches Aug 9. Aug 10–17 uses the mean of the curren
   <article><small>Paris · Aug 1–3</small><b>83–90°F highs</b><p>Warm, but no longer the 100°F crisis signal. Keep arrival day light and preserve AC.</p></article>
   <article><small>Coast · Aug 4–7</small><b>75–76°F highs</b><p>Excellent market, beach and outdoor-dining weather if the trend holds.</p></article>
   <article><small>Strasbourg · Aug 8–10</small><b>75° → mid/high 80s</b><p>A forecast front cools arrival day; thunderstorms remain the main watch item.</p></article>
-  <article><small>Bern · Aug 11–17</small><b>Low/mid 80s outlook</b><p>Mountain-day weather is unknowable this far out. Decide Wengen inside the 2–3-day window.</p></article>
+  <article><small>Bern · Aug 11–17</small><b>Low/mid 80s outlook</b><p>The exact mountain forecast is still unknowable. Choose Männlichen, Kleine Scheidegg or a valley-only day from the Aug 13–14 live signal.</p></article>
 </div>
 
 <div class="weather-note"><b>Gold cells mark the actual lodging city.</b> The visible Aug 8 cooling is in the current direct forecast across the region—not an artificial fall from forecast to historical averages. It can still move substantially before departure.</div>
@@ -194,21 +195,54 @@ The point is a pleasant family rhythm with optional depth. A successful day can 
   <article class="chapter bern"><div><small>Bern</small><h3>The excursion portfolio</h3><p>Alternate city recovery with short scenic days, then spend the best mountain-weather window on Wengen and the Jungfrau region.</p></div></article>
 </div>
 
-### Six Bern nights, used deliberately
+### Six Bern nights, with one deliberately simple mountain night
 
-Bern is the reliable base; Switzerland supplies the crescendo. The hotel itself does not need to be the trip’s most characterful stay. Its job is to run well, simplify departures and support six very different days.
+Swissôtel remains the continuous base, including during the overlapping Camping Jungfrau night. That turns the interlude into a one-backpack excursion rather than another real checkout—and gives the trip both a reliable home and the experience of waking in Lauterbrunnen.
 
-<div class="excursion-grid">
-  <article class="excursion focus" style="background-image:url('assets/places/wengen-jungfrau.jpg')"><div><small>≈1h45 each way</small><h3>Wengen + Jungfrau region</h3><p>The one ambitious day: reach car-free Wengen, then continue only as weather, energy and the altitude decision allow.</p></div></article>
-  <article class="excursion" style="background-image:url('assets/places/lauterbrunnen-valley.jpg')"><div><small>≈1h40 each way</small><h3>Lauterbrunnen</h3><p>The dramatic-valley alternative or companion to Wengen, with high scenery payoff and easy stroller-scale wandering.</p></div></article>
-  <article class="excursion" style="background-image:url('assets/places/thun-old-town.jpg')"><div><small>≈20–30 min</small><h3>Thun</h3><p>The easiest low-effort escape: compact old town, castle views and lakefront atmosphere without consuming the whole day.</p></div></article>
-  <article class="excursion" style="background-image:url('assets/places/interlaken-aerial.jpg')"><div><small>≈45–55 min</small><h3>Interlaken</h3><p>Useful as a flexible lake-and-mountain gateway, but less compelling than Wengen or Lauterbrunnen as the destination itself.</p></div></article>
-  <article class="excursion" style="background-image:url('assets/places/lucerne-sunset.jpg')"><div><small>≈1h–1h15</small><h3>Lucerne</h3><p>A polished full-day option with lake, old town and mountain framing; choose it if the family wants beauty with minimal hiking.</p></div></article>
-  <article class="excursion" style="background-image:url('assets/places/gruyeres-garden.jpg')"><div><small>≈1h20 rail · ≈1h car</small><h3>Gruyères + Maison Cailler</h3><p>The strongest reserved-car candidate: medieval town, pastoral scenery, cheese and chocolate in one weather-tolerant day.</p></div></article>
+<div class="stay-grid">
+  <article markdown="1">
+    <span class="card-index">11</span><small>Tue Aug 11</small>
+    <h3>Arrive in Bern</h3>
+    <p>Tram 9 to Swissôtel, establish the crib, cooling and monitor setup, then only a short arcades walk and an early dinner.</p>
+  </article>
+  <article markdown="1">
+    <span class="card-index">12</span><small>Wed Aug 12</small>
+    <h3>Bern orientation</h3>
+    <p>Rosengarten, Bärenpark, Nydegg, the arcades and Münster terrace form one unhurried city day around lunch and a hotel nap.</p>
+  </article>
+  <article markdown="1">
+    <span class="card-index">13</span><small>Thu Aug 13</small>
+    <h3>Thun → Lauterbrunnen → Wengen</h3>
+    <p>Use a station locker for a two-to-three-hour Thun stop, continue to the 15:00 Camping check-in, then ride the frequent 12-minute train to Wengen for the afternoon and early evening.</p>
+  </article>
+  <article markdown="1">
+    <span class="card-index">14</span><small>Fri Aug 14</small>
+    <h3>Mountain morning → Interlaken → Bern</h3>
+    <p>Choose Männlichen or Kleine Scheidegg from the live visibility. Interlaken is only an optional 60–90-minute lunch and Höhematte pause if the mountain day finishes easily.</p>
+  </article>
+  <article markdown="1">
+    <span class="card-index">15</span><small>Sat Aug 15</small>
+    <h3>Easy Bern recovery</h3>
+    <p>Saturday market, hotel nap and at most one local extra—Rosengarten, Gurten or Marzili. Giardino supplies the zero-friction evening.</p>
+  </article>
+  <article markdown="1">
+    <span class="card-index">16</span><small>Sun Aug 16</small>
+    <h3>Lucerne finale</h3>
+    <p>Direct train, Old Town lunch and a short lake cruise. Skip Pilatus and Rigi; return to Bern for dinner and ordinary packing before the direct airport train.</p>
+  </article>
 </div>
 
-!!! warning "Jungfraujoch is not assumed"
-    Wengen is already a complete family day. Continuing to the high-altitude summit should depend on visibility, stamina and a deliberate pediatric/altitude decision—not on having come this far.
+<div class="excursion-grid">
+  <article class="excursion" style="background-image:url('assets/places/bern-rosengarten-panorama.jpg')"><div><small>Aug 12 + 15</small><h3>Bern</h3><p>A real city chapter and the recovery base—not merely the station used to reach somewhere else.</p></div></article>
+  <article class="excursion" style="background-image:url('assets/places/thun-old-town.jpg')"><div><small>Aug 13 · en route</small><h3>Thun</h3><p>The planned stop: compact old town, water and lunch before continuing into the Lauterbrunnen valley.</p></div></article>
+  <article class="excursion" style="background-image:url('assets/places/lauterbrunnen-valley.jpg')"><div><small>Aug 13–14 · overnight</small><h3>Lauterbrunnen</h3><p>The deliberately simple night that adds a valley evening and the experience of waking beneath the mountains.</p></div></article>
+  <article class="excursion focus" style="background-image:url('assets/places/wengen-jungfrau.jpg')"><div><small>Aug 13–14</small><h3>Wengen + one viewpoint</h3><p>Wengen on arrival afternoon; Männlichen or Kleine Scheidegg the next morning according to visibility and energy.</p></div></article>
+  <article class="excursion" style="background-image:url('assets/places/interlaken-aerial.jpg')"><div><small>Aug 14 · optional pause</small><h3>Interlaken</h3><p>Lunch and Höhematte only if the mountain day runs smoothly. It never outranks clear mountain hours or Krishna’s nap.</p></div></article>
+  <article class="excursion" style="background-image:url('assets/places/lucerne-sunset.jpg')"><div><small>Aug 16 · finale</small><h3>Lucerne</h3><p>Old Town and a short lake cruise close the trip with polished scenery and little physical commitment.</p></div></article>
+</div>
+
+!!! warning "Jungfraujoch is not the working plan"
+    With ten-month-old Krishna, the default ceiling is Männlichen or Kleine Scheidegg while sleeping low in Lauterbrunnen. Jungfraujoch and the Sphinx require explicit pediatric clearance for the abrupt ascent above 3,400 metres; reaching Wengen is not a reason to continue automatically.
 
 ## Good logistics buy better family days {#krishna}
 
@@ -248,6 +282,6 @@ Krishna travels well. The failure mode is accumulated fatigue, formal indoor eve
 </div>
 
 !!! info "Leave unbooked"
-    **Wengen / Jungfraujoch, Colmar and most day trips.** They gain more from current weather and family energy than they lose from advance commitment. Book only the scarce transport that actually protects the trip.
+    **The local mountain rail, Lucerne boat, Colmar and other minor excursions.** They gain more from current weather and family energy than they lose from advance commitment. Book only the scarce transport that actually protects the trip.
 
-<div class="page-footer">Updated Jul 25, 2026. Route and lodging are booked, and Krishna is attached to the Delta itinerary. French rail is held but not yet paid. No private addresses, reservation identifiers or identity-document details are displayed here.</div>
+<div class="page-footer">Updated Jul 25, 2026. Route and lodging—including the overlapping Lauterbrunnen interlude—are booked, and Krishna is attached to the Delta itinerary. The mountain room still needs written infant-safe cot or upgrade confirmation. French rail is held but not yet paid. No private addresses, reservation identifiers or identity-document details are displayed here.</div>
